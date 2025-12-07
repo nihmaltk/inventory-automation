@@ -1,0 +1,3 @@
+"""
+Inventory automation tasks module
+"""
