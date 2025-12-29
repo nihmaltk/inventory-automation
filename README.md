@@ -12,7 +12,7 @@ This tool automates essential inventory management workflows:
 * **Data Enhancement:** Adds computed columns (`Restock Status`, `Inventory Value`) for better analysis.
 * **Summary Reports:** Generates a **comprehensive supplier statistics sheet** in the output file.
 
-## Tech Stack
+## Technologies Used
 
 - Python 
 - openpyxl library
